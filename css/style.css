@@ -539,7 +539,7 @@ section {
     padding: 2rem;
   }
 
-  .header .navbar {
+  .header .navbar{
     position: absolute;
     top: 99%;
     left: 0;

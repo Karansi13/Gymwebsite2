@@ -2,7 +2,7 @@ let menu = document.querySelector('#menu-btn');
 let navbar = document.querySelector('.header .navbar');
 window.onclick = () =>{
     menu.classList.toggle('fa-times');
-    navbar.classList.toggle('active');
+    // navbar.classList.toggle('active');
 };
 
 window.onscroll = () =>{
